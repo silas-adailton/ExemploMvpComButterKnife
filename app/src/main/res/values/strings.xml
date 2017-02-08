@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exemplo Mvp Com Butter Knife</string>
+    <string name="enviar">Enviar</string>
+    <string name="message">Campo obrigatório</string>
+    <string name="login">Login</string>
+    <string name="Senha">Senha</string>
+</resources>
